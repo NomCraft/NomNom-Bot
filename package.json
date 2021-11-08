@@ -4,7 +4,7 @@
   "description": "Discord music bot built with discord.js",
   "main": "index.js",
   "author": "NomCraft",
-  "private": true,
+  "private": false,
   "homepage": "https://github.com/NomCraft/NomNom-Bot",
   "repository": "github:NomCraft/NomNom-Bot",
   "bugs": "https://github.com/NomCraft/NomNom-Bot/issues",
