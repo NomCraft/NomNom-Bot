@@ -1,13 +1,13 @@
 {
-  "name": "evobot",
+  "name": "NomNomBot",
   "version": "0.9.0",
   "description": "Discord music bot built with discord.js",
   "main": "index.js",
-  "author": "Erit Islami <eritislami@gmail.com>",
+  "author": "NomCraft",
   "private": true,
-  "homepage": "https://github.com/eritislami/evobot",
-  "repository": "github:eritislami/evobot",
-  "bugs": "https://github.com/eritislami/evobot/issues",
+  "homepage": "https://github.com/NomCraft/NomNom-Bot",
+  "repository": "github:NomCraft/NomNom-Bot",
+  "bugs": "https://github.com/NomCraft/NomNom-Bot/issues",
   "engines": {
     "node": ">=12.0.0"
   },
